@@ -1,0 +1,43 @@
+c:\users\hansenfa\documents\visual studio 2010\Projects\Weather Forecast\Weather Forecast\Bin\Debug\ApplicationIcon.png
+c:\users\hansenfa\documents\visual studio 2010\Projects\Weather Forecast\Weather Forecast\Bin\Debug\Background.png
+c:\users\hansenfa\documents\visual studio 2010\Projects\Weather Forecast\Weather Forecast\Bin\Debug\AppManifest.xaml
+c:\users\hansenfa\documents\visual studio 2010\Projects\Weather Forecast\Weather Forecast\Bin\Debug\Weather_Forecast.xap
+c:\users\hansenfa\documents\visual studio 2010\Projects\Weather Forecast\Weather Forecast\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\hansenfa\documents\visual studio 2010\Projects\Weather Forecast\Weather Forecast\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\hansenfa\documents\visual studio 2010\Projects\Weather Forecast\Weather Forecast\obj\Debug\ResolveAssemblyReference.cache
+c:\users\hansenfa\documents\visual studio 2010\Projects\Weather Forecast\Weather Forecast\obj\Debug\App.g.i.cs
+c:\users\hansenfa\documents\visual studio 2010\Projects\Weather Forecast\Weather Forecast\obj\Debug\MainPage.g.i.cs
+c:\users\hansenfa\documents\visual studio 2010\Projects\Weather Forecast\Weather Forecast\obj\Debug\XapCacheFile.xml
+C:\Users\hansenfa\documents\visual studio 2010\Projects\Weather Forecast\Weather Forecast\Bin\Debug\Weather Forecast.dll
+C:\Users\hansenfa\documents\visual studio 2010\Projects\Weather Forecast\Weather Forecast\Bin\Debug\Weather Forecast.pdb
+C:\Users\hansenfa\documents\visual studio 2010\Projects\Weather Forecast\Weather Forecast\obj\Debug\Weather Forecast.g.resources
+C:\Users\hansenfa\documents\visual studio 2010\Projects\Weather Forecast\Weather Forecast\obj\Debug\Weather Forecast.dll
+C:\Users\hansenfa\documents\visual studio 2010\Projects\Weather Forecast\Weather Forecast\obj\Debug\Weather Forecast.pdb
+C:\Users\hansenfa\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\Bin\Debug\ApplicationIcon.png
+C:\Users\hansenfa\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\Bin\Debug\Weather Forecast.dll
+C:\Users\hansenfa\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\Bin\Debug\Weather Forecast.pdb
+C:\Users\hansenfa\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\Bin\Debug\AppManifest.xaml
+C:\Users\hansenfa\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\Bin\Debug\Weather_Forecast.xap
+C:\Users\hansenfa\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\hansenfa\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\hansenfa\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hansenfa\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\obj\Debug\App.g.i.cs
+C:\Users\hansenfa\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\obj\Debug\MainPage.g.i.cs
+C:\Users\hansenfa\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\obj\Debug\Weather Forecast.g.resources
+C:\Users\hansenfa\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\obj\Debug\Weather Forecast.dll
+C:\Users\hansenfa\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\obj\Debug\Weather Forecast.pdb
+C:\Users\hansenfa\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\obj\Debug\XapCacheFile.xml
+C:\Users\Antonio\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\Bin\Debug\ApplicationIcon.png
+C:\Users\Antonio\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\Bin\Debug\Weather Forecast.dll
+C:\Users\Antonio\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\Bin\Debug\Weather Forecast.pdb
+C:\Users\Antonio\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\Bin\Debug\AppManifest.xaml
+C:\Users\Antonio\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\Bin\Debug\Weather_Forecast.xap
+C:\Users\Antonio\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Antonio\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Antonio\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Antonio\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\obj\Debug\App.g.i.cs
+C:\Users\Antonio\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\obj\Debug\MainPage.g.i.cs
+C:\Users\Antonio\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\obj\Debug\Weather Forecast.g.resources
+C:\Users\Antonio\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\obj\Debug\Weather Forecast.dll
+C:\Users\Antonio\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\obj\Debug\Weather Forecast.pdb
+C:\Users\Antonio\Dropbox\Pessoal\Projetos Pessoais\Weather Forecast\Weather Forecast\obj\Debug\XapCacheFile.xml
